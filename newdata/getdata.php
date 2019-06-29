@@ -1,6 +1,6 @@
 {
 	"status":true,
-	"apisite":"http:\/\/www.chinganin.ga\/api",
+	"apisite":"https:\/\/raw.githubusercontent.com\/rachitkataria13\/api\/master",
 	"name1":"Please Don't Misuse It",
 	"statusmain":true,
 	"messmain":"Something may have went wrong please restart",
